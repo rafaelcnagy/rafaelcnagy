@@ -51,5 +51,5 @@
 ## 📊 GitHub Stats
 <div align="center" style="display: flex">
   <img height="180em" src="https://github-readme-stats-one-mu-55.vercel.app/api?username=rafaelcnagy&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcnagy&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-one-mu-55.vercel.app/api/top-langs/?username=rafaelcnagy&layout=compact&theme=tokyonight" />
 </div>
